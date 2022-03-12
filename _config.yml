@@ -1,1 +1,32 @@
+title: Lastik Studio
+timezone: UTC
+description: International team
+
+show_sidebar: false
+show_downloads: false
+show_title: false
+show_description: false
+git_branch: master
+
 theme: jekyll-theme-slate
+
+include: ['.htaccess']
+
+
+custom_head: true
+custom_sidebar: false
+custom_footer: true
+
+  media: '/media'
+
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - 404.md
+    - README.md
+    - feed.xml
+    - sitemap.xml
+    - robots.txt
+    - redirects.json
