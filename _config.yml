@@ -1,39 +1,5 @@
----
-
-title: Ластик
-timezone: UTC
-description: Анимационная студия в Москве
-
-show_sidebar: false
-show_downloads: false
-show_title: false
-show_description: false
-git_branch: master
-
+title: Slate theme
+description: Slate is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-slate
-
-include: ['.htaccess']
-
-use_github_wiki: false
-use_prose_io: true
-custom_head: true
-custom_sidebar: false
-custom_footer: true
-
-prose:
-  rooturl: 'https://github.com/indexmod/lastik'
-  siteurl: 'https://github.com/indexmod/lastik'
-  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
-  media: '/media'
-
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - 404.md
-    - README.md
-    - feed.xml
-    - sitemap.xml
-    - robots.txt
-    - redirects.json
