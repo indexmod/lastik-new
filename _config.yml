@@ -6,7 +6,7 @@ show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-git_branch: master
+git_branch: github-pages
 
 theme: jekyll-theme-slate
 
